@@ -1,0 +1,27 @@
+{
+  "name": "coords-to-zip",
+  "version": "1.0.0",
+  "description": "Provide a latitude and longitude, get a zip code back",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicholaspsmith/coords-to-zip.git"
+  },
+  "keywords": [
+    "geolocation",
+    "latitude",
+    "longitude",
+    "zipcode",
+    "zip",
+    "code"
+  ],
+  "author": "Nicholas P Smith <nick@dreamlinestudios.com> (http://nicholaspsmith.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaspsmith/coords-to-zip/issues"
+  },
+  "homepage": "https://github.com/nicholaspsmith/coords-to-zip#readme"
+}
