@@ -1,6 +1,6 @@
 {
   "name": "coords-to-zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide a latitude and longitude, get a zip code back",
   "main": "index.js",
   "scripts": {
