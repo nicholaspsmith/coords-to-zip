@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/nicholaspsmith/coords-to-zip/issues"
   },
-  "homepage": "https://github.com/nicholaspsmith/coords-to-zip#readme"
+  "homepage": "https://github.com/nicholaspsmith/coords-to-zip#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
