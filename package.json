@@ -24,7 +24,8 @@
     "url": "https://github.com/nicholaspsmith/coords-to-zip/issues"
   },
   "homepage": "https://github.com/nicholaspsmith/coords-to-zip#readme",
+	"bundleDependencies": false,
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.15.3"
   }
 }
